@@ -1,5 +1,5 @@
 /*
- * main.c
+ * Main.c
  * 
  * Description: Main file of the program
  * 
@@ -7,7 +7,7 @@
  * Date: 07-12-2023
  */
 
-#include "utils.h"
+#include "Utils.h"
 
 /// @brief main function to execute program
 /// @param argc 

@@ -1,5 +1,5 @@
 /*
- * utils.h
+ * Utils.h
  *
  * Description: This file contains all the includes and functions declarations.
  *

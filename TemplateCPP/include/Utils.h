@@ -1,5 +1,5 @@
 /*
- * utils.h
+ * Utils.h
  *
  * Description: This file contains all the includes and functions declarations.
  *
@@ -8,9 +8,8 @@
  */
 
 // region include
-#include <stdio.h>
-#include <stdbool.h>
-#include <string.h>
+#include <iostream>
+#include <string>
 // endregion include
 
 // Functions
