@@ -2,7 +2,7 @@
 
 This repository contains my solutions to the coding problems from [DailyCodingProblem](https://www.dailycodingproblem.com/).
 
-### Problem YYYYMMDD
+### Problem 08/12/2023
 
 **Problem Description:**
 
