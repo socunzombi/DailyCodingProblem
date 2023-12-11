@@ -2,6 +2,28 @@
 
 Welcome to my coding playground, where I tackle the brain-teasers from [DailyCodingProblem](https://www.dailycodingproblem.com/) with a dash of humor and a sprinkle of C and C++. Because who said problem-solving can't be fun?
 
+## Prerequisites
+
+Before you jump into the coding joy, make sure you have the following essentials:
+
+- **C and C++ Compilers**: Ensure you have the necessary compilers installed for both C and C++. Popular choices include GCC (GNU Compiler Collection) for C, and G++ for C++. You can install them based on your operating system:
+
+  - For Linux:
+    ```bash
+    sudo apt-get update
+    sudo apt-get install build-essential
+    ```
+
+  - For macOS (using Homebrew):
+    ```bash
+    brew install gcc
+    ```
+
+  - For Windows (using MinGW or MSYS):
+    Install MinGW or MSYS and add the bin directory to your system's PATH.
+
+- **Code Editor**: Choose a code editor of your preference. Whether it's Visual Studio Code, Sublime Text, Atom, or any other editor, pick one that suits your style. The coding joy is best experienced with a comfortable editor by your side.
+
 ## What's Inside?
 
 The folder structure is as straightforward as a piece of cake:
