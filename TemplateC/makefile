@@ -35,7 +35,6 @@ test3:
 # endregion tests
 
 # region compiler
-
 $(BIN_DIR)/SOLUTION: $(OBJ_FILES)
 	mkdir -p $(BIN_DIR)
 	gcc -Wall -Wextra $^ -o $@
@@ -43,7 +42,6 @@ $(BIN_DIR)/SOLUTION: $(OBJ_FILES)
 $(OBJ_DIR)/%.o: $(SRC_DIR)/%.c $(HDR_FILES)
 	mkdir -p $(OBJ_DIR)
 	gcc -Wall -Wextra -I $(INC_DIR) -c $< -o $@
-
 # endregion compiler
 
 # region clean
