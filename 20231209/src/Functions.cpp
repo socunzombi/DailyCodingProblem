@@ -11,7 +11,7 @@
 
 string serialize(Node* node)
 {
-    return "Root:\'" + node->getValue() + "\'," 
+    return "Root:\'" + node->getValue() + "\'" 
         + serializeRecursive(node->getLeft(), &LEFT) 
         + serializeRecursive(node->getRight(), &RIGHT);
 }
