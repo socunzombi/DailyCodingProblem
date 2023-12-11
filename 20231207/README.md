@@ -1,4 +1,10 @@
-# PROBLEM
+# Daily Coding Problems
+
+This repository contains my solutions to the coding problems from [DailyCodingProblem](https://www.dailycodingproblem.com/).
+
+### Problem YYYYMMDD
+
+**Problem Description:**
 
 Given a list of numbers and a number k, return whether any two numbers from the list add up to k.
 

@@ -1,4 +1,10 @@
-# PROBLEM
+# Daily Coding Problems
+
+This repository contains my solutions to the coding problems from [DailyCodingProblem](https://www.dailycodingproblem.com/).
+
+### Problem YYYYMMDD
+
+**Problem Description:**
 
 Given an array of integers, return a new array such that each element at index i of the new array is the product of all the numbers in the original array except the one at i.
 

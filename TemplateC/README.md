@@ -1,3 +1,9 @@
-# PROBLEM
+# Daily Coding Problems
 
--- insert problem --
+This repository contains my solutions to the coding problems from [DailyCodingProblem](https://www.dailycodingproblem.com/).
+
+### Problem YYYYMMDD
+
+**Problem Description:**
+
+<!-- Insert the problem description here -->
