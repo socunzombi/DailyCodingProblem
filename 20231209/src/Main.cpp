@@ -25,7 +25,14 @@ int main (int argc, char *argv[])
                 nullptr,
                 new Node("10"))));
 
+    Node* node2 = new Node("asdasd");
+    cout << serialize(node2) << endl;
+    Node* newNode2 = deserialize(serialize(node2));
+
+    string serializedNode = serialize(node);
 
 	cout << serialize(node) << endl;
+    Node* newNode = deserialize(serializedNode);
+
     return 0;
 }

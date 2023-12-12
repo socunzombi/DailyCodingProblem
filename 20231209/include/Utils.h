@@ -10,6 +10,9 @@
 // region include
 #include <iostream>
 #include <string>
+#include <sstream>
+#include <cstring>
+#include <algorithm>
 // endregion include
 
 // region using
@@ -45,5 +48,4 @@ class Node {
 };
 
 string serialize(Node* node);
-string serializeRecursive(Node* node, const int* position);
-Node deserialize(const string& serializedNode);
+Node* deserialize(const string& serializedNode);
