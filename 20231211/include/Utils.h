@@ -4,7 +4,7 @@
  * Description: This file contains all the includes and functions declarations.
  *
  * Author: Joan Francesc Pedro Garcia
- * Date: 07-12-2023
+ * Date: 13-12-2023
  */
 
 // region include
@@ -14,3 +14,12 @@
 // endregion include
 
 // Functions
+
+typedef struct {
+    int first;
+    int second;
+} Pair;
+
+Pair cons(int first, int second);
+int car (Pair pair);
+int cdr (Pair pair);

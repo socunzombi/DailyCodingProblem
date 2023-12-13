@@ -19,19 +19,6 @@ all: clean_prestart $(BIN_DIR)/SOLUTION clean
 # region tests
 run: all
 	./$(BIN_DIR)/SOLUTION
-
-tests: all test1 test2 test3
-
-test1:
-	./$(BIN_DIR)/SOLUTION
-
-test2:
-	./$(BIN_DIR)/SOLUTION
-
-test3:
-	./$(BIN_DIR)/SOLUTION
-
-
 # endregion tests
 
 # region compiler
