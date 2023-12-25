@@ -30,7 +30,7 @@ Before you jump into the coding joy, make sure you have the following essentials
 
 The folder structure is as straightforward as a piece of cake:
 
-- **YYYYMMDD**: Each folder is like a delicious slice of time, containing the problem's readme, the 'src' folder with all the coding magic, and a makefile that's your personal code chef. Cook up some C, C++, or Rust goodness with just a make command! 🍳
+- **problem_YYYYMMDD**: Each folder is like a delicious slice of time, containing the problem's readme, the 'src' folder with all the coding magic, and a makefile that's your personal code chef. Cook up some C, C++, or Rust goodness with just a make command! 🍳
 
 - **src**: This is where the coding wizardry happens. Dive in and discover the mystical solutions to coding riddles. Warning: May contain traces of magic and caffeine.
 
